@@ -7,5 +7,6 @@ public class Demo01 {
 		System.out.println("zzz");
 		System.out.println("xxx");
 		System.out.println("uuu");
+		System.out.println("fenzhi");
 	}
 }
