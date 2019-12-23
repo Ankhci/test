@@ -6,5 +6,6 @@ public class Demo01 {
 		System.out.println("update bug");
 		System.out.println("zzz");
 		System.out.println("xxx");
+		System.out.println("uuu");
 	}
 }
